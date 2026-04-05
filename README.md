@@ -4,7 +4,7 @@
 The DateTimePicker PCF (PowerApps Component Framework) component provides a modern and interactive user-friendly interface for selecting a date and time. Built using TypeScript, this component maintains a clean and consistent look with Power Apps and Microsoft products. The picker is designed to fit seamlessly into a date-time field, making it an elegant solution for date and time selection in your applications.
 
 <p align="center">
-  <img src="your-gif-here.gif" alt="DateTimePicker preview" width="300"/>
+  <img src="https://github.com/user-attachments/assets/23ce8f77-2dfd-4a73-83b5-7582883e805f" alt="DateTimePicker preview" width="300"/>
 </p>
 
 ## Features
