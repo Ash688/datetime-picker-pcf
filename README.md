@@ -17,14 +17,5 @@ The DateTimePicker PCF (PowerApps Component Framework) component provides a mode
 ## Usage
 Click here to [download](https://github.com/Ash688/datetime-picker-pcf/releases/download/v1.0.0/DateTimePickerSolution.zip) the managed solution that you can use to import the control into your environment.
 
-## Installation
-1. Clone the repo
-2. Run `npm install`
-3. Run `pac pcf push --publisher-prefix ash`
-
-## Requirements
-- Power Apps CLI
-- Node.js 16+
-
 ## License
 This project is licensed under the terms of the MIT license. See the **LICENSE** file for details.
