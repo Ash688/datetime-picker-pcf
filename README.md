@@ -12,7 +12,7 @@ The DateTimePicker PCF (PowerApps Component Framework) component provides a mode
 - **Time Input**: Set hours and minutes directly with a dedicated time section.
 - **12h/24h Toggle**: Switch between 12-hour (AM/PM) and 24-hour time formats.
 - **Modern UI**: Clean design consistent with Power Apps and Microsoft Fluent styling.
-- **Field Type**: Applied on a DateTime field, ideal for forms in canvas apps or model-driven.
+- **Field Type**: Applied on a DateTime field, ideal for forms in canvas apps.
 
 ## Usage
 Click here to [download](https://github.com/Ash688/datetime-picker-pcf/releases/download/v1.0.0/DateTimePickerSolution.zip) the managed solution that you can use to import the control into your environment.
