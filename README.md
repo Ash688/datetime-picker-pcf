@@ -14,7 +14,7 @@ The DateTimePicker PCF (PowerApps Component Framework) component provides a mode
 - **Modern UI**: Clean design consistent with Power Apps and Microsoft Fluent styling.
 - **Field Type**: Applied on a DateTime field, ideal for forms in canvas apps.
 
-## Usage
+## Managed Solution
 Click here to [download](https://github.com/Ash688/datetime-picker-pcf/releases/download/v1.0.0/DateTimePickerSolution.zip) the managed solution that you can use to import the control into your environment.
 
 ## License
